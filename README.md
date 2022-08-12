@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Kendimi geliştirmeye [Patika](https://www.patika.dev/tr) eğitimleri ile devam ediyorum.
